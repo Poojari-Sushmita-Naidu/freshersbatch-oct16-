@@ -1,4 +1,6 @@
-I am being edited in master after creatin js branch
+<<<<<<< HEAD
+I am being edited in js branch
+>>>>>>> js-assignments
 I am being edited in css branch
 I am a readme file 
 I am created in Assignments folder master branch
